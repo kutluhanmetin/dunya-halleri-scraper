@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="341b314e-b975-49b3-91e7-93f7f3d4108c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.13.1" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1wwcmkiR1aclJvxaDzeh6cJMJgI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build dunya-halleri-scraper" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dunya-halleri-scraper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="dunya-halleri-scraper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dunya-halleri-scraper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="dunya-halleri-scraper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build dunya-halleri-scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2576" y="699" width="611" height="585" key="#xdebugger.evaluate" timestamp="1629405238042">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="2576" y="699" width="611" height="585" key="#xdebugger.evaluate/0.25.3440.1415@0.25.3440.1415" timestamp="1629405238042" />
+    <state width="600" height="466" key="DebuggerActiveHint" timestamp="1629408248792">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="600" height="466" key="DebuggerActiveHint/0.25.3440.1415@0.25.3440.1415" timestamp="1629408248792" />
+    <state width="1105" height="333" key="GridCell.Tab.0.bottom" timestamp="1629410106000">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.0.bottom/0.25.3440.1415@0.25.3440.1415" timestamp="1629410106000" />
+    <state width="1105" height="333" key="GridCell.Tab.0.center" timestamp="1629410105999">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.0.center/0.25.3440.1415@0.25.3440.1415" timestamp="1629410105999" />
+    <state width="1105" height="333" key="GridCell.Tab.0.left" timestamp="1629410105998">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.0.left/0.25.3440.1415@0.25.3440.1415" timestamp="1629410105998" />
+    <state width="1105" height="333" key="GridCell.Tab.0.right" timestamp="1629410105999">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.0.right/0.25.3440.1415@0.25.3440.1415" timestamp="1629410105999" />
+    <state width="1105" height="333" key="GridCell.Tab.1.bottom" timestamp="1629410106002">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.1.bottom/0.25.3440.1415@0.25.3440.1415" timestamp="1629410106002" />
+    <state width="1105" height="333" key="GridCell.Tab.1.center" timestamp="1629410106001">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.1.center/0.25.3440.1415@0.25.3440.1415" timestamp="1629410106001" />
+    <state width="1105" height="333" key="GridCell.Tab.1.left" timestamp="1629410106001">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.1.left/0.25.3440.1415@0.25.3440.1415" timestamp="1629410106001" />
+    <state width="1105" height="333" key="GridCell.Tab.1.right" timestamp="1629410106002">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1105" height="333" key="GridCell.Tab.1.right/0.25.3440.1415@0.25.3440.1415" timestamp="1629410106002" />
+    <state width="573" height="707" key="XDebugger.FullValuePopup" timestamp="1629376382696">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="573" height="707" key="XDebugger.FullValuePopup/0.25.3440.1415@0.25.3440.1415" timestamp="1629376382696" />
+  </component>
+</project>
